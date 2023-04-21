@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hey <img src="Resources/Hi.gif" width="35" alt="Waving Hand" title="Wave">, I'm [Francois Robbertze](https://www.linkedin.com/in/francoisrob/)
 
-<!--
-**francoisrob/francoisrob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="Resources/coding.svg" width="200" align=right>
 
-Here are some ideas to get you started:
+## I'm a Software Engineer Intern at Codeinfinity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Web Development**
+
+- 😄 Pronouns: He/Him
+
+- ⚡ I got my first laptop at the age of 18
+ 📫 How to reach me: ...
+
+----------
+
+### My Skills
+
+<div align="center">
+<img src="Resources/python.svg" height="50" title="Python">
+<img src="Resources/php.svg" height="50" title="PHP">
+<img src="Resources/mongodb.svg" height="50" title="MongoDB">
+<img src="Resources/mysql.svg" height="50" title="MySQL">
+<img src="Resources/fedora.svg" height="50" title="Fedora"></div>
+
+<!-- RESOURCES BELONG TO THEIR RESPECTIVE OWNERS -->
+<!-- https://tenor.com/view/waving-hand-joypixels-hi-hello-hey-there-gif-17554626 -->
+<!-- https://github.com/walkxcode/dashboard-icons -->
+<!-- https://storyset.com/ for awesome animated SVG -->
