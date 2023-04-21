@@ -9,7 +9,6 @@
 - 😄 Pronouns: He/Him
 
 - ⚡ I got my first laptop at the age of 18
- 📫 How to reach me: ...
 
 ----------
 
