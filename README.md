@@ -1,6 +1,6 @@
 # Hey <img src="Resources/Hi.gif" width="35" alt="Waving Hand" title="Wave">, I'm [Francois Robbertze](https://www.linkedin.com/in/francoisrob/)
 
-<img src="Resources/coding.svg" width="300" align=right>
+<img src="Resources/coding.svg" width="400" align=right>
 
 ## I'm a Software Engineer Intern at Codeinfinity
 
