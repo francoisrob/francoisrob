@@ -2,7 +2,7 @@
 
 <img src="Resources/coding.svg" width="400" align=right>
 
-## I'm a Software Engineer Intern at Codeinfinity
+## I'm a Junior Developer at Restio Labs
 
 - 🌱 I’m currently learning **Web Development**
 
